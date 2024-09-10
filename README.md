@@ -10,7 +10,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
  • Streamlined data processing & analysis to monitor key performance metrics and trends.
  • Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
-** Project Insights- Week 53 (31st Dec)**
+ **Project Insights- Week 53 (31st Dec)**
+
+ 
  **WoW change:** 
 • Revenue increased by 28.8%, 
 
